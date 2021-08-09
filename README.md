@@ -13,7 +13,7 @@ The best tweak for the YouTube app!
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | uYou |
         | ------------------ |:---------:|:------:|:------:|
-        | [YouTube](http://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.30.2_uYou_1.3.ipa) | com.google.ios.youtube | 16.30.2 | 1.3 |
+        | [YouTube](http://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.30.2_uYou_1.3.zip) | com.google.ios.youtube | 16.30.2 | 1.3 |
         
         
         
@@ -32,7 +32,9 @@ The best tweak for the YouTube app!
 
 ### AltStore
 
-* Download the IPA file from the link above and copy it to your phone, using iCloud Drive, Airdrop, or any other method.
+* Download the ZIP file from the link above.
+
+* Extract the IPA file from the ZIP file and copy it to your phone, using iCloud Drive, Airdrop, or any other method.
 
 * Download and install AltServer from [here](https://altstore.io)
 
