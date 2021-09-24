@@ -47,4 +47,5 @@ The best tweak for the YouTube app!
 
 * Signing with a non developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC.
 * The app will not receive Push Notifications.
-* If you're getting "Error 200" then try using another signing service/method.
+* If you're getting "Error 200" then try using another signing service/method. For **appdb pro** users, please change **Identity type to use for appdb PRO** in the [appdb configuration](https://user-images.githubusercontent.com/52943116/134609634-80155411-ef73-4c5a-89d3-263cf94602dc.PNG) from **Auto** to **Development**, then re-install uYou. After that, you can set it back to **Auto**.
+
