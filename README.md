@@ -13,7 +13,7 @@ The best tweak for the YouTube app!
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | uYou |
         | ------------------ |:---------:|:------:|:------:|
-        | [YouTube](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.34.7_uYou_1.7.zip) | com.google.ios.youtube | 16.34.7 | 1.7 |
+        | [YouTube](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.37.3_uYou_2.0.zip) | com.google.ios.youtube | 16.37.3 | 2.0 |
         
         
         
@@ -29,6 +29,10 @@ The best tweak for the YouTube app!
 1. A computer running macOS or Windows
 2. Internet connection
 3. Apple ID (email & password)
+
+### AppDB
+
+You need to do change the `Identity type to use for appdb PRO` in the [appdb configuration](https://user-images.githubusercontent.com/52943116/134609634-80155411-ef73-4c5a-89d3-263cf94602dc.PNG) from `Auto` to `Development`. After that, you can set it back to Auto if you want.
 
 ### AltStore
 
@@ -48,3 +52,8 @@ The best tweak for the YouTube app!
 * Signing with a non developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC.
 * The app will not receive Push Notifications.
 * If you're getting "Error 200" then try using another signing service/method.
+
+### Support
+* [PayPal](https://paypal.me/MiROTweaks)
+* [CashApp](https://cash.app/$MiRO92M)
+
