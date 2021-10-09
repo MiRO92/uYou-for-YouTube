@@ -6,7 +6,7 @@ The best tweak for the YouTube app!
 
 ## Download Links
 
-* **Jailbreak:** Add __[https://miro92.com/repo](https://miro92.com/repo)__ to your Cydia/Zebra/Sileo sources and download it from there.
+* **Jailbreak:** Add __[http://miro92.com/repo](http://miro92.com/repo)__ to your Cydia/Zebra/Sileo sources and download it from there.
 * **Sideloading (No Jailbreak):** 
     Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
 
