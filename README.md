@@ -13,7 +13,7 @@ The best tweak for the YouTube app!
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | uYou |
         | ------------------ |:---------:|:------:|:------:|
-        | [YouTube](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.37.3_uYou_2.0.zip) | com.google.ios.youtube | 16.37.3 | 2.0 |
+        | [YouTube](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.0.zip) | com.google.ios.youtube | 16.42.3 | 2.1 |
         
         
         
@@ -52,6 +52,11 @@ The best tweak for the YouTube app!
 
 
 ### Support
-* [PayPal](https://paypal.me/MiROTweaks)
 * [CashApp](https://cash.app/$MiRO92M)
+* BTC Bitcoin: 3LZRt4jxuFoRAPTrB3he4BUb5bzMD1t8HK
+* Tether (USDT): TTNXwugTFBmarNBy8tAXvHvdNLXiuz9zPD
+* Basic Attention Token (BAT): 0x1d3943dd33d2f36ef838d48071de07d469315153
+* Ethereum (ETH): 0x1d3943dd33d2f36ef838d48071de07d469315153
+* Dogecoin (DOGE): 9xzrRxjn8BZmpr2ShyqKFAjvhujJ2D2iKD
+* Monero (XMR): 89J4jtkE2EqQ6QvtsqLqUM7gBkseL7jqrYZ3wrpbYhM2E5EuQyXcDuxdsWHmgCsUnWZcVXQpRhvQEiB6SrSQW6AHU7ngxRY
 
