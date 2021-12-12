@@ -1,0 +1,264 @@
+// Russian by dvntm
+
+/* Welcome */
+"The best tweak for the YouTube app" = "Лучший твик для YouTube";
+"Download Videos/Audio" = "Загрузка Аудио и Видео";
+"Save your favorite videos for offline playback." = "Сохраняйте видео для офлайн просмотра.";
+"Play Saved Media" = "Воспроизведение сохраненных файлов";
+"Play your saved media in a custom player with background playback support and mini player." = "Воспроизводите сохраненные медиафайлы в проигрывателе с поддержкой фонового воспроизведения и мини-плеером.";
+"More Options" = "Гибкие настройки";
+"Play YouTube videos in the background and more, You can configure options from the settings." = "Проигрывание видео в фоновом режиме и многое другое. Все параметры доступны в настройках.";
+"Follow me on Twitter" = "Подпишитесь на мой Твиттер";
+"Continue" = "Продолжить";
+
+/* uYou tab */
+"Downloading" = "Загрузки";
+"All" = "Все";
+"Video" = "Видео";
+"Videos" = "Видео";
+"Audio" = "Аудио";
+"Audios" = "Аудио";
+"Shorts" = "Shorts";
+"Total (%lu)" = "Всего (%lu)";
+"Downloading (%lu)" = "Загружается (%lu)";
+"Selected files: (%lu)" = "Выбрано файлов: (%lu)";
+"Completed: %@" = "Завершено: %@";
+"AM" = "ДП";
+"PM" = "ПП";
+"Sorting" = "Сортировка";
+"Video Title (Ascending)" = "Название (по возрастанию)";
+"Video Title (Descending)" = "Название (по убыванию)";
+"Download Date (Ascending)" = "Дата (по возрастанию)";
+"Download Date (Descending)" = "Дата (по убыванию)";
+"Audio Only" = "Только аудио";
+"Audio Only (%@)" = "Только аудио (%@)";
+"Audio" = "Аудио";
+"Video" = "Видео";
+"Downloading..." = "Загрузка...";
+"Adding Metadata to the M4A..." = "Добавление метаданных в M4A...";
+"Merging video with audio into MP4..." = "Слияние дорожек в MP4...";
+"Photo library access is disabled. Please give YouTube permission to access your photos library." = "Доступ к Галерее запрещен. Пожалуйста, предоставьте YouTube доступ к вашей Галерее";
+"Waiting..." = "Ожидается...";
+"Waiting for download..." = "Ожидается...";
+"Paused" = "На паузе";
+"Completed" = "Завершено";
+"Play on YouTube" = "Открыть в YouTube";
+"Open Channel" = "Перейти на канал";
+"Rename" = "Переименовать";
+"Cancel" = "Отмена";
+"Done" = "Готово";
+"Share" = "Поделиться";
+"Import to Music" = "Экспортировать в Музыку";
+"Export to Camera Roll" = "Экспортировать в Галерею";
+"Change Image" = "Изменить изображение";
+"Save Album Art to Camera Roll" = "Сохранить обложку в Галерею";
+"Open in Filza" = "Открыть в Filza";
+"Delete" = "Удалить";
+"Cancel" = "Отмена";
+"Confirm" = "Удалить";
+"Copy Video Link" = "Копировать ссылку на видео";
+"Copy Audio Link" = "Копировать ссылку на аудио";
+"Cancel Download" = "Отменить загрузку";
+"Are you sure you want to delete \"%@\"?" = "Уверены, что хотите удалить «%@»?";
+"Are you sure you want to delete (%lu) files?" = "Уверены, что хотите удалить (%lu) файлов?";
+"Save Image" = "Сохранить фото";
+"Save Gif" = "Сохранить гифку";
+"Playlist content is empty" = "Плейлист пуст";
+"(%lu) videos will be downloaded" = "Будет загружено (%lu) видео";
+"Playlist\n(%lu) videos will be downloaded" = "Плейлист\nБудет загружено (%lu) видео"; // Not sure if it right string. But if so, please delete string above. :)
+"Couldn't find any video in this playlist." = "В плейлисте не найдено ни одного видео";
+"Error: Conversion cancelled by user" = "Ошибка: Конвертация отменена пользователем";
+"Error: Conversion failed with code %d" = "Ошибка: Конвертация не удалась. Код ошибки: %d";
+"Error!\nNo links found" = "Ошибка!\nСсылка не найдена";
+"Error!\nCouldn't find Player ID" = "Ошибка!\nPlayer ID не найден";
+"Error!\nCouldn't find player response." = "Ошибка!\nНет ответа";
+"Error!\nuYou did not find any quality to download" = "Ошибка!\nНе найдено ни одного формата для загрузки";
+
+
+/* Import to Music */
+"Import" = "Сохранить";
+"Change Artwork Image" = "Изменить обложку";
+"Import Info" = "Подробности";
+"Explicit" = "Контент для взрослых";
+"Kind" = "Тип";
+"Audio" = "Аудио";
+"Video" = "Видео";
+"Title" = "Название";
+"Album" = "Альбом";
+"Artist" = "Исполнитель";
+"Year" = "Год";
+
+/* + button */
+"Please, paste the YouTube link or Video ID to start download" = "Пожалуйста, вставьте ссылку или ID видео для загрузки";
+"YouTube URL or Video ID" = "Ссылка или ID видео";
+"Cancel" = "Отмена";
+"Download" = "Скачать";
+
+/* Donating */
+"Donating" = "Пожертвование";
+"You can support my iOS development by donating 🥰\n\n\"It’s not how much we give, but how much love we put into giving.\"\nMother Teresa" = "Вы можете поддержать мои работы донатом 🥰\n\n«Дело не в том, сколько мы отдаем, а в том, сколько любви отдаем вместе с этим.»\nМать Тереза";
+"Cancel" = "Отмена";
+
+/* Popups */
+"Loading" = "Загрузка";
+"Download started" = "Скачивается";
+"Saved!" = "Сохранено!";
+"Exported successfully" = "Экспортировано";
+"Renamed successfully" = "Переименовано";
+"Invalid YouTube link" = "Неверная ссылка";
+
+/* Settings */
+"Quality and Format" = "Качество и формат";
+"Show Formats" = "Показывать форматы";
+
+"Download Quality" = "Качество загрузок";
+"Always Ask" = "Всегда спрашивать";
+"Audio Only" = "Только аудио";
+
+"PiP Quality" = "Качество «PiP»";
+"Always Ask" = "Всегда спрашивать";
+"Highest Quality" = "Наилучшее";
+"Lowest Quality" = "Худшее";
+
+"Playlist Quality" = "Качество плейлистов";
+
+"YT Video Quality on WiFi" = "Качество по Wi-Fi";
+"YT Video Quality on Cellular" = "Качество по мобильной сети";
+"Auto" = "Авто";
+
+"If the selected quality is not available, then uYou will choose a lower quality than the one you choose." = "Если выбранное качество недоступно, uYou выберет ближайшее доступное качество";
+
+"uYou Settings" = "Настройки uYou";
+"Videos Download Location" = "Сохранение загрузок";
+"uYou Folder Only" = "В папке uYou";
+"Camera Roll Only" = "В Галерее";
+"Both" = "В обоих местах";
+
+"Max Concurrent Downloads Count" = "Число одновременных загрузок";
+"Unlimited" = "Неограниченное";
+"Videos Download Location" = "Сохранять видео";
+
+"YT Settings" = "Настройки YouTube";
+"Startup Page" = "Начальная страница";
+"Home" = "Главная";
+"Shorts" = "Shorts";
+"Create" = "Создать";
+"Subscriptions" = "Подписки";
+"Library" = "Библиотека";
+"Explore" = "Навигация";
+"Trending" = "В тренде";
+
+"Video Controls Overlay" = "Кнопки управления плеером";
+"Related Videos at the end the videos" = "Рекомендации в конце роликов";
+"Cast Button" = "Кнопка трансляции";
+"uYou Repeat" = "Кнопка повтора видео";
+"uYou Fullscreen to The Right" = "Поворот экрана вправо";
+"Playback Speed Controls" = "Кнопки управления скоростью";
+"Enable \"uYou Gestures Controls\"" = "Включить управление жестами";
+"uYou Gestures Controls: It can let you drag your finger left/right on the top/bottom of the video screen to adjust the volume/brightness/seek.\n\nChanging settings require restarting the YouTube app." = "Управление жестами «uYou» позволяет проводить пальцем влево и вправо по нижней и верхней части плеера для регулировки громкости, яркости и перемотки.\n\nДля вступления настроек в силу перезапустите YouTube.";
+
+"Buttons Under the Video Player" = "Кнопки под плеером";
+"Hide uYou Button" = "Скрыть кнопку «uYou»";
+"Hide uYouLocal Button" = "Скрыть кнопку «uYouLocal»";
+"Hide uYouPiP Button" = "Скрыть кнопку «uYouPiP»";
+"Hide Dislike Button" = "Скрыть кнопку «Дизлайк»";
+"Hide Download Button" = "Скрыть кнопку «Скачать»";
+"Hide Share Button" = "Скрыть кнопку «Поделиться»";
+"Hide Save Button" = "Скрыть кнопку «Сохранить»";
+"Hide Live Chat Button" = "Скрыть кнопку «Чат»";
+"Hide Report Button" = "Скрыть кнопку «Пожаловаться»";
+"Hide Create Shorts Button" = "Скрыть кнопку «Создать»";
+"Hide Create Clip Button" = "Скрыть кнопку «Клип»";
+"Changing settings require restarting the YouTube app." = "Для вступления настроек в силу перезапустите YouTube.";
+
+"Navigation Bar" = "Панель навигации";
+"Hide Cast Button" = "Скрыть кнопку трансляции";
+"Hide Notification Button" = "Скрыть кнопку уведомлений";
+"Changing settings require restarting the YouTube app." = "Для вступления настроек в силу перезапустите YouTube.";
+
+"Hide Tabs" = "Скрыть вкладки";
+"YT Tabs" = "Скрыть вкладки";
+"Hide Shorts Tab" = "Скрыть Shorts";
+"Hide Create Tab" = "Скрыть Создать (+)";
+"Hide Subscriptions Tab" = "Скрыть Подписки";
+"Hide Library Tab" = "Скрыть Библиотека";
+"Hide Trending Tab" = "Скрыть В тренде";
+"Hide Explore Tab" = "Скрыть Навигация";
+"Changing settings require restarting the YouTube app." = "Для вступления настроек в силу перезапустите YouTube.";
+
+"Reorder Tabs" = "Порядок вкладок";
+"Home" = "Главная";
+"Shorts" = "Shorts";
+"Create" = "Создать";
+"Subscriptions" = "Подписки";
+"Library" = "Библиотека";
+"uYou" = "uYou";
+"Explore" = "Навигация";
+"Trending" = "В тренде";
+
+"Other Settings" = "Другие настройки";
+"Remove YouTube Ads" = "Убрать рекламу";
+"Background Playback" = "Фоновое воспроизведение";
+"Allow HD On Cellular Data" = "Разрешить HD по мобильной сети";
+"Disable Age Restriction" = "Отключить возрастные ограничения";
+"iPad Layout" = "Стиль iPad";
+"Remove Shorts Section in YT Home" = "Убрать Shorts с Главной страницы";
+"Disable Video Auto Play" = "Отключить авто-воспроизведение";
+"Disable \"Video paused. Continue watching?\"" = "Отключить «Продолжить просмотр?»";
+"Disable Auto Caption" = "Отключить автоматические субтитры";
+"Fullscreen Videos on The Right" = "Поворот экрана вправо";
+"Changing settings require restarting the YouTube app." = "Для вступления настроек в силу перезапустите YouTube.";
+"Custom Double Tap To Seek Time" = "Изменить интервал перемотки";
+"Double Tap To Seek Time" = "Интервал перемотки двойным тапом";
+
+"Gestures Controls Settings" = "Настройки жестов";
+"Top Area" = "Верхняя часть";
+"Bottom Area" = "Нижняя часть";
+"Volume" = "Громкость";
+"Brightness" = "Яркость";
+"Seek" = "Перемотка";
+
+"Speed" = "Скорость";
+"Activation Sensitivity (Activation Distance)" = "Чувствительность активации (Дистанция)";
+"Default Speed = 250.\nDefault Sensitivity = 70.\nSensitivity: How much you want to move your finger on the video until the gesture activates." = "Скорость по умолчанию = 250.\nЧувствительность по умолчанию = 70.\nЧувствительность - это то, сколько вы должны провести пальцем по экрану для активации жестов.";
+
+"Others" = "Другое";
+"Open Downloads Folder in Filza" = "Открыть Загрузки в Filza";
+"Import From %@" = "Перенос файлов из %@";
+"You can easily migrate all of your videos/audios from \"%@\" to \"uYou\" with a tap of a button!\n\nPlease choose one of the following:" = "Теперь вы с легкостью сможете перенести все свои медиафайлы с %@ в uYou одним нажатием!\n\nВыберите вариант переноса данных:";
+"Cancel" = "Отмена";
+"Copy all" = "Скопировать";
+"Move all" = "Переместить";
+
+"Clear Downloading" = "Удалить текущие загрузки";
+"Are you sure you want to clear all current downloading videos/audios?" = "Уверены, что хотите удалить все загружаемые медиафайлы?";
+"Cancel" = "Отмена";
+"Confirm" = "Удалить";
+
+"Clear Downloads" = "Удалить загруженное";
+"Are you sure you want to clear all downloaded videos/audios?" = "Уверены, что хотите удалить все загруженные медиафайлы?";
+
+"Clear All" = "Удалить все";
+"Are you sure you want to clear all downloading/downloaded videos/audios?" = "Уверены, что хотите удалить все загружаемые и загруженные медиафайлы?";
+
+"uYou Updates" = "Обновления uYou";
+"Automatically Check For Updates" = "Проверять обновления";
+"Check For Update" = "Проверить наличие обновлений";
+"You're using v.2.1 which it's the latest version." = "У вас установлена последняя версия (2.1)."; //Didn't find this string.
+"uYou v.2.2 is now available. Please make sure to always updating to the latest version to ensure having a flawless/uninterrupted experience." = "Доступна новая, 2.2 версия uYou. Не забывайте обновляться до последней версии для обеспечения плавного и бесперебойного опыта."; //Didn't find this string.
+"Your YouTube version (%@) is too low to support uYou, please update YouTube to at least version (%@)+.\n\nYou can still use this version but am not responsible for any crashes/issues so please don't contact me for support.\n\nThank You!" = "Установленная у вас версия YouTube (%@) является старой для стабильной работы uYou. Требуется, как минимум, (%@) версия.\n\nВы можете продолжить пользоваться данной версией, но я не несу ответственности за какие-либо баги/ошибки в работоспособности. Пожалуйста, не беспокойте меня по данному поводу.\n\nСпасибо!";
+"I Understand" = "Понятно";
+"DON'T SHOW" = "СКРЫТЬ";
+"DISMISS" = "ОК";
+"UPDATE NOW" = "ОБНОВИТЬ";
+"SKIP" = "ПОЗЖЕ";
+"Check For Update" = "Проверить наличие обновлений";
+
+"Social Media" = "Контакты";
+"Developer" = "Разработчик";
+"Support my" = "Поддержите";
+"developments by" = "меня, сделав";
+"Donating" = "Пожертвование";
+"Designer" = "Дизайнер";
+"Follow me on social media." = "Подписывайтесь на нас в соц. сетях.";
+"Coded with ❤️ by MiRO\nCopyright © 2021" = "Разработано с ❤️ от MiRO\nCopyright © 2021";
