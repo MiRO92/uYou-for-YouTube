@@ -14,8 +14,8 @@ The best tweak for the YouTube app!
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | uYou | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.zip) | com.google.ios.youtube | 16.42.3 | 2.1 | ZIP |
-        | [YouTube](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa) | com.google.ios.youtube | 16.42.3 | 2.1 | IPA |
+        | [YouTube](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_18.14.1_uYou_3.0.zip) | com.google.ios.youtube | 18.14.1 | 3.0 | ZIP |
+        | [YouTube](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_18.14.1_uYou_3.0.ipa) | com.google.ios.youtube | 18.14.1 | 3.0 | IPA |
         
         
         
