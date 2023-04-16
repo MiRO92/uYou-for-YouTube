@@ -35,7 +35,7 @@ The best tweak for the YouTube app!
 
 * Option 1
     * Copy the link below then open it in Safari.
-    * `altstore://install?url=https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa`
+    * `altstore://install?url=https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_18.14.1_uYou_3.0.ipa`
 * Option 2
     * Download the IPA/ZIP file from the link above.
     * Copy the IPA file to your device, using iCloud Drive, Airdrop, or any other method.
