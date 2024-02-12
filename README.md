@@ -80,7 +80,7 @@ Download the IPA file from releases and follow one of the options below:
 
 * Option 1
     * Copy the link below then open it in Safari.
-    * `altstore://install?url=[https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa](https://github.com/MiRO92/uYou-for-YouTube/releases/download/3.0.2/YouTube_19.06.2_uYou_3.0.2.ipa)`
+    * `altstore://install?url=https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa`
 * Option 2
     * Download the IPA/ZIP file from the link above.
     * Copy the IPA file to your device, using iCloud Drive, Airdrop, or any other method.
