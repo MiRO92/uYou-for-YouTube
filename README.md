@@ -29,6 +29,7 @@ Add __[https://miro92.com/repo](https://miro92.com/repo)__ to your Cydia/Zebra/S
 Download the IPA file from releases and follow one of the options below:
 * (Option 1) [Sideloading with Sideloadly](#sideloading-with-sideloadly).
 * (Option 2) [Sideloading with AltStore](#sideloading-with-altstore).
+* (Option 3) You can get a paid subscription from a signing store where you can download the latest uYou directly from your device and have it available for 1 year instead of 7 days. I recommend using [https://flekstore.com](https://flekstore.com/uYou) since they always have the latest official IPA from this page.
 
 
 ### Sideloading (TrollStore)
